@@ -16,5 +16,10 @@ vignettes/*.pdf
 # Dropbox
 .DS_Store
 
+# Ignore solutions
+
+*04_robust.R
+
+
 
 
